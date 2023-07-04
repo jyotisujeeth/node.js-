@@ -1,0 +1,17 @@
+{
+    "env": {
+    
+"SIB_KEY" : "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",
+
+"SQL_PASSWORD" : "myself&me",
+
+"PORT" : "5000",
+
+"USER_NAME": "root",
+
+"DB_NAME":  "localhost",
+
+"DB_NAME": "chatApplication-1"
+
+}
+}
